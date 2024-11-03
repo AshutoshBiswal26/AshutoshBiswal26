@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me linkedin.com/ashutoshbiswal24
+- 📫 How to reach me https://discord.com/channels/@me
 - 😄 Pronouns: He
 - ⚡ Fun fact: without errors life would be a bizzare!
 
