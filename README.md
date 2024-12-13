@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @AshutoshBiswal26
-- 👀 I’m interested in python
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me https://discord.com/channels/@me
-- 😄 Pronouns: He
-- ⚡ Fun fact: without errors life would be a bizzare!
+Hi, my name is Ashutosh Biswal and I am a data scientist with a strong background in statistics. I have completed several online courses to enhance my skills, including the Data Science & AI professional certificate at 360DigiTMG, AI & Deep Learning program at 360DigiTMG, Data Sience in Marketing at pathsetter and Data Visulaization using Power BI at 360DigiTMG. ●	By leveraging my diverse skill set and passion for data, I aim to excel in this dynamic field and make a meaningful impact in the organization growth I serve. 
 
-<!---
-AshutoshBiswal26/AshutoshBiswal26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
