@@ -1,4 +1,13 @@
-Hi, my name is Ashutosh Biswal and I am a data scientist with a strong background in statistics. I have completed several online courses to enhance my skills, including the Data Science & AI professional certificate at 360DigiTMG, AI & Deep Learning program at 360DigiTMG, Data Science in Marketing at pathsetter and Data Visualization using Power BI at 360DigiTMG. By leveraging my diverse skill set and passion for data, I aim to excel in this dynamic field and make a meaningful impact in the organization growth I serve. 
+## 👋 Hi there!
+
+I'm a Software Engineer at BizCloud Experts, where I build full-stack AI-powered applications. I specialize in:
+
+- 🧠 AI/ML: CNNs, recommendation engines, OpenCV
+- ☁️ AWS: Lambda, DynamoDB, SageMaker, Bedrock, S3, Athena, Glue
+- 💻 Stack: React (frontend), Node.js & Python (backend)
+
+I'm passionate about combining cloud-native architectures with practical machine learning to solve real-world problems.
+
 
 
 
